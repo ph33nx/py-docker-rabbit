@@ -1,4 +1,4 @@
-# Python/Docker/RabbitMQ Test Task
+# Python/Docker/RabbitMQ
 
 This project demonstrates a simple message producer and consumer using RabbitMQ and Docker.
 
